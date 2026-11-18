@@ -35,17 +35,7 @@ function Footer() {
             <span className="font-bold text-xl border border-current rounded px-1 hover:text-purple-400">
   in
 </span>
-            {/* <a href="https://www.linkedin.com/company/cynbit/"
-              target="_blank" rel="noreferrer"
-              aria-label="LinkedIn">
-              <Linkedin className="hover:text-purple-400" />
-            </a> */}
-
-            {/* <a href="https://github.com"
-              target="_blank" rel="noreferrer"
-              aria-label="GitHub">
-              <Github className="hover:text-purple-400" />
-            </a> */}
+           
 
             <a href="mailto:opportunities@cynbit.in"
               aria-label="Email">
